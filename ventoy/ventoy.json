@@ -1,0 +1,89 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" }
+    ],
+    
+    "theme": {
+        "file": "/ventoy/theme/WhiteSur/theme.txt",
+        "gfxmode": "1920x1080",
+        "ventoy_left": "0%",
+        "ventoy_top": "0%",
+        "ventoy_color": "#ffffff",
+        "fonts": [
+            "/ventoy/theme/WhiteSur/terminus-12.pf2",
+            "/ventoy/theme/WhiteSur/terminus-14.pf2",
+            "/ventoy/theme/WhiteSur/terminus-16.pf2"
+        ]
+    },
+
+    "injection": [
+        {
+            "image": "/Ubuntu-20.04.3-amd64.iso",
+            "archive": "/data/linux/live_injection.tar.gz"
+        },
+        {
+            "image": "/Linuxmint-20.2-64bit.iso",
+            "archive": "/data/linux/live_injection.tar.gz"
+        },
+        {
+            "image": "/Kali-linux-2021.3-live-amd64.iso",
+            "archive": "/data/linux/live_injection.tar.gz"
+        },
+        {
+            "image": "/Manjaro-21.1.5.iso",
+            "archive": "/data/linux/live_injection.tar.gz"
+        },
+        {
+            "image": "/ArchLinux-2021.10.01_x86_64.iso",
+            "archive": "/data/linux/arch/live_injection.tar.gz"
+        }
+    ],
+    
+    "menu_class" : [
+           {
+                "key": "Windows_10",
+                "class": "windows"
+            },
+           {
+                "key": "Linuxmint",
+                "class": "Linuxmint"
+            },        
+           {
+                "key": "Arch",
+                "class": "arch"
+            },        
+           {
+                "key": "ArchLinux",
+                "class": "archlinux"
+            },        
+           {
+                "key": "Arcolinux",
+                "class": "arcolinux"
+            },        
+           {
+                "key": "Debian",
+                "class": "debian"
+            },        
+           {
+                "key": "Deepin",
+                "class": "deepin"
+            },        
+           {
+                "key": "Fedora",
+                "class": "fedora"
+            },        
+           {
+                "key": "Kali",
+                "class": "kali"
+            },        
+           {
+                "key": "Manjaro",
+                "class": "manjaro"
+            },        
+           {
+                "key": "Ubuntu",
+                "class": "ubuntu"
+            }
+        ]
+}
