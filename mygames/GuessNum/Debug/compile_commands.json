@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nltt/Documents/C/GuessNum/Debug",
+  "command": "/usr/bin/cc  -I/home/nltt/Documents/C/GuessNum/include -g -o CMakeFiles/run.dir/src/main.c.o -c /home/nltt/Documents/C/GuessNum/src/main.c",
+  "file": "/home/nltt/Documents/C/GuessNum/src/main.c"
+}
+]

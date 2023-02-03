@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nltt/Documents/C/GuessWord/Debug",
+  "command": "/usr/bin/cc  -I/home/nltt/Documents/C/GuessWord/include -g -o CMakeFiles/run.dir/src/func.c.o -c /home/nltt/Documents/C/GuessWord/src/func.c",
+  "file": "/home/nltt/Documents/C/GuessWord/src/func.c"
+},
+{
+  "directory": "/home/nltt/Documents/C/GuessWord/Debug",
+  "command": "/usr/bin/cc  -I/home/nltt/Documents/C/GuessWord/include -g -o CMakeFiles/run.dir/src/main.c.o -c /home/nltt/Documents/C/GuessWord/src/main.c",
+  "file": "/home/nltt/Documents/C/GuessWord/src/main.c"
+}
+]

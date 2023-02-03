@@ -1,0 +1,3 @@
+/home/nltt/Documents/C/GuessNum/Debug/CMakeFiles/run.dir
+/home/nltt/Documents/C/GuessNum/Debug/CMakeFiles/edit_cache.dir
+/home/nltt/Documents/C/GuessNum/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+{
+	"configurations": {
+		"Launch": {
+			"adapter": "vscode-cpptools",
+			"configuration": {
+				"request": "launch",
+				"program": "Debug/run",
+				"cwd": "/home/nltt/Documents/C/GuessWord",
+				"externalConsole": true,
+				"MIMode": "gdb"
+			}
+		}
+	}
+}
